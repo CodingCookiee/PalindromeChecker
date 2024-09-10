@@ -4,7 +4,7 @@
 
 
 
-## [🔗LiveDemo](https://codepanda-crypto.github.io/OdinProject/PalindromeChecker/)
+## [🔗LiveDemo](https://codingcookiee.github.io/PalindromeChecker/)
 
 
 
